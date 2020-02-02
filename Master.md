@@ -1,12 +1,19 @@
 # 3 Month Machine learning Course
 ## by Siraj Raval
-### Free
+### teknologi, programming
+#### In 3 Month you can understand machine learning 
+##### Free
+###### 4.3
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/MachineLearning.md)
 
 # Kecerdasan buatan - Informal
 ## oleh Irza Pulungan
-### Gratis
-(https://www.youtube.com/irzaip)
+### teknologi, programming
+#### Belajar kecerdasan buatan dan hal-hal yang berkaitan dengan Machine learning, Jaringan Syaraf Tiruan dan Deep Learning
+##### Free
+###### 4.8
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/KecerdasanBuatan.md)
+
 
 
 
