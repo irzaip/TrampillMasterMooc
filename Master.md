@@ -14,4 +14,20 @@
 ###### 4.3
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/MachineLearning.md)
 
+# Belajar koding dengan Lavarel
+## oleh Irza Pulungan
+### teknologi, programming
+#### Web programming memang asik sekali
+##### Free
+###### 4.8
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/KecerdasanBuatan.md)
+
+# JUDUL
+## oleh pengarang 
+### kategori
+#### deskripsi panjang
+##### biaya
+###### rating
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/KecerdasanBuatan.md)
+
 
