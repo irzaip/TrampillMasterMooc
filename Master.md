@@ -6,6 +6,14 @@
 ###### 4.8
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/KecerdasanBuatan.md)
 
+# Tutorial Flutter
+## oleh IDR Corner
+### teknologi, programming
+#### Belajar Membuat aplikasi mobile dengan Flutter
+##### Free
+###### 4.8
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/BelajarFlutter.md)
+
 # 3 Month Machine learning Course
 ## by Siraj Raval
 ### teknologi, programming
@@ -13,14 +21,6 @@
 ##### Free
 ###### 4.3
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/MachineLearning.md)
-
-# Belajar koding dengan Lavarel
-## oleh Irza Pulungan
-### teknologi, programming
-#### Web programming memang asik sekali
-##### Free
-###### 4.8
-(https://raw.githubusercontent.com/irzaip/SampleCourse/master/KecerdasanBuatan.md)
 
 # JUDUL
 ## oleh pengarang 
