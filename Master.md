@@ -30,6 +30,14 @@
 ###### 4.3
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/MachineLearning.md)
 
+# Kecerdasan buatan - Versi baru
+## oleh Irza Pulungan
+### teknologi, programming
+#### Belajar kecerdasan buatan dan hal-hal yang berkaitan dengan Machine learning, Jaringan Syaraf Tiruan dan Deep Learning
+##### Free
+###### 4.8
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/KecerdasanBuatan1.md)
+
 # JUDUL
 ## oleh pengarang 
 ### kategori
