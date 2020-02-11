@@ -6,6 +6,15 @@
 ###### 4.8
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/KecerdasanBuatan1.md)
 
+# Flutter - Tutorial lengkap
+## oleh Erico Darmawan Handoyo
+### teknologi, programming
+#### Belajar Flutter dari dasar sekali sampai dengan advanced
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Flutter_Erico.md)
+
+
 # Tutorial Flutter
 ## oleh IDR Corner
 ### teknologi, programming
