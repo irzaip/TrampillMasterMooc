@@ -14,7 +14,6 @@
 ###### 4.9
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/Flutter_Erico.md)
 
-
 # Tutorial Flutter
 ## oleh IDR Corner
 ### teknologi, programming
@@ -22,6 +21,14 @@
 ##### Free
 ###### 4.8
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/BelajarFlutter.md)
+
+# HTML DASAR
+## Sandhika Galih
+### teknologi, programming
+#### Seri mengenai bagaimana membuat website menggunakan bahasa HTML. Mencakup pembahasan mengenai sejarah HTML, membuat halaman web sederhana, dan penjelasan mengenai tag-tag yang ada pada HTML.
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/HTML_DASAR.md)
 
 # Tutorial DART dalam bahasa Indonesia
 ## oleh CodeWithIhwan
@@ -31,11 +38,4 @@
 ###### 4.8
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/Dart.md)
 
-# HTML DASAR
-## Sandhika Galih
-### teknologi, programming
-#### Seri mengenai bagaimana membuat website menggunakan bahasa HTML. Mencakup pembahasan mengenai sejarah HTML, membuat halaman web sederhana, dan penjelasan mengenai tag-tag yang ada pada HTML.
-##### Free
-###### 4.9
-(https://raw.githubusercontent.com/irzaip/SampleCourse/master/HTML_DASAR.md)
 
