@@ -46,3 +46,50 @@
 ###### 4.9
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/CSS_Dasar.md)
 
+# CSS Layouting
+## Sandhika Galih
+### teknologi, programming
+#### Mengenal CSS untuk layout
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/./SampleCourse/CSS_Layouting.md)
+
+# CSS 3
+## Sandhika Galih
+### teknologi, programming
+#### Mengenal teknologi terbaru CSS 3
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/./SampleCourse/CSS_3.md)
+
+# Dasar-dasar JAVASCRIPT
+## Sandhika Galih
+### teknologi, pemrograman
+#### Di course ini kamu belajar semua yang perlu di ketahui tentang JAVASCRIPT
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/./Dasar-dasar_JAVASCRIPT.md)
+
+# JAVASCRIPT Lanjutan
+## Sandhika Galih
+### teknologi, pemrograman
+#### Lanjutan dari belajar JAVASCRIPT
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/./JAVASCRIPT_Lanjutan.md)
+
+# Mengenal REST API
+## Sandhika Galih
+### teknologi, pemrograman
+#### Mengenal lebih dekat cara dan metode penggunaan REST API
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/./Mengenal_REST_API.md)
+
+# WEBSITE dgn CODEIGNITER
+## Sandhika Galih
+### teknologi, pemrograman
+#### Membuat website lengkap dengan framework codeigniter
+##### Free
+###### 3.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/./WEBSITE_dgn_CODEIGNITER.md)
