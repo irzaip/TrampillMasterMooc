@@ -39,3 +39,11 @@
 ###### 4.3
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/MachineLearning.md)
 
+# HTML DASAR
+## Sandhika Galih
+### teknologi, programming
+#### Seri mengenai bagaimana membuat website menggunakan bahasa HTML. Mencakup pembahasan mengenai sejarah HTML, membuat halaman web sederhana, dan penjelasan mengenai tag-tag yang ada pada HTML.
+##### 4.9
+###### Free
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/HTML_DASAR.md)
+
