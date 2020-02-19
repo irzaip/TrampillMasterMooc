@@ -93,3 +93,27 @@
 ##### Free
 ###### 3.9
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/WEBSITE_dgn_CODEIGNITER.md)
+
+# Belajar JAVA
+## Kelas Terbuka
+### teknologi, pemrograman
+#### Belajar java tutorial bahasa Indonesia lengkap
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Belajar_JAVA.md)
+
+# Belajar C++
+## Kelas Terbuka
+### teknologi, pemrograman
+#### Belajar C++ terkece se-youtube yang akan membahas dasar-dasar pemrograman dari nol. FROM ZERO TO HERO
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Belajar_C++.md)
+
+# MATLAB - Algoritma Genetika
+## Kelas Terbuka
+### teknologi, pemrograman
+#### Mari belajar algoritma genetika dengan langkah-langkah detail. Kita juga akan belajar mengimplementasikan algoritma genetika dengan menggunakan MATLAB.
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/MATLAB_-_Algoritma_Genetika.md)
