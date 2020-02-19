@@ -117,3 +117,45 @@
 ##### Free
 ###### 4.9
 (https://raw.githubusercontent.com/irzaip/SampleCourse/master/MATLAB_-_Algoritma_Genetika.md)
+
+# Bootstrap 4
+## Framework Indonesia
+### teknologi, pemrograman
+#### Belajar menggunakan bootstrap sebagai framework Web
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Bootstrap_4.md)
+
+# Framework CODEIGNITER 3
+## framework Indonesia
+### teknologi, pemrograman
+#### panduan lengkap dengan contoh menggunakan codeigniter 3
+##### Free
+###### 3.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Framework_CODEIGNITER_3.md)
+
+# Laravel 6
+## IDStack
+### teknologi, pemrograman
+#### Kuasai dari awal framework Laravel 6
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Laravel_6.md)
+
+# Pemrograman dengan Python
+## sekolahkoding
+### teknologi, pemrograman
+#### belajar python dari dasar untuk pemula dalam bahasa indonesia
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/Pemrograman_dengan_Python.md)
+
+# React Native
+## Prawito Hudoro
+### teknologi, pemrograman
+#### Belajar React Native dari awal
+##### Free
+###### 4.9
+(https://raw.githubusercontent.com/irzaip/SampleCourse/master/React_Native.md)
+
+
